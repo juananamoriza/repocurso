@@ -18,7 +18,5 @@ insert into tprovincia values
 insert into tprovincia values
 ('TE', 'TERUEL', 800000);
 insert into tprovincia values
-('LO', 'LOGROÑO', 100000);
-insert into tprovincia values
 ('TO', 'TOLEDO', 2000);
 COMMIT;

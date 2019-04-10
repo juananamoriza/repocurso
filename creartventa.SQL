@@ -12,6 +12,4 @@ insert into tventa values
 ('60606060', 'ART3', to_date('01,07,1998', 'dd, mm, yyyy'),10);
 insert into tventa values
 ('70707070', 'ART1', to_date('02,03,1998', 'dd, mm, yyyy'),5);
-insert into tventa values
-('70707070', 'ART4', to_date('03,04,1998', 'dd, mm, yyyy'),2);
 cl buff;

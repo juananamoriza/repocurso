@@ -6,8 +6,8 @@ NOM_VEN	VARCHAR2(25) NOT NULL,
 PORCEN	NUMBER(4),
 TITULACION	VARCHAR2(10),
 SUPERIOR	CHAR(3)
-)
-/
+);
+
 insert into tvendedor values
 ('002','PEREZ DIRAC A.', 5, 'ELEMENTAL', '001');
 insert into tvendedor values

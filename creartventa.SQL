@@ -1,7 +1,7 @@
 drop table tventa;
 create table tventa
-(cliente char(10) not null, articulo char(4) not null,  fecha date not null, cantidad number(5))
-/
+(cliente char(10) not null, articulo char(4) not null,  fecha date not null, cantidad number(5));
+                                                                                             
 insert into tventa values
 ('10101010', 'ART1', to_date('01,01,1998', 'dd, mm, yyyy'),10);
 insert into tventa values

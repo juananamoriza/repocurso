@@ -11,6 +11,8 @@ insert into tarticulo values
 ('ART4', 'LIBRERIA', 8000, 20, 'PORTUGAL');
 insert into tarticulo values
 ('ART5', 'PAPELERA', 1000, 50, 'BRASIL');
+insert into tarticulo values
+('ART6', 'PAPEL', 100, 30, 'BRASIL');
 CL BUFF;
 
 

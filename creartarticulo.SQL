@@ -1,6 +1,8 @@
 drop table tarticulo;
 create table tarticulo(cod_art char(4) not null, descripcion char(10), precio number(5), stock number(5), procedencia char(10))
 /
+                                                                                                                           
+-- comentario                                                                                                                           --
 insert into tarticulo values
 ('ART1', 'MESA', 1000, 100, 'PORTUGAL');
 insert into tarticulo values
